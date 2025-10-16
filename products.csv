@@ -1,0 +1,6 @@
+sku,name,brand,color,size,mrp,price,quantity
+TSHIRT-RED-001,Classic T-Shirt,Stream Threads,Red,M,799,499,20
+JEANS-BLU-032,Slim Fit Jeans,DenimWorks,Blue,32,1999,1599,15
+FAIL-MRP-001,Bad Price Shirt,Threads,Red,L,1000,1200,5
+FAIL-QTY-002,Bad Qty Shirt,Threads,Red,L,1000,800,-5
+FAIL-REQ-003,Missing Price,Threads,Red,L,1000,,10
